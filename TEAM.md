@@ -11,8 +11,10 @@
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
+|   1 | Nguyễn Thanh Liêm | 2A202603358 | 26ai.liemnt@vinuni.edu.vn | Liemt0165 | ledger + evaluation |
 |   2 |        |      |       |        |         |
+|   3 |        |      |       |        |         |
+|   4 |        |      |       |        |         |
 
 Gợi ý chia vai:
 
@@ -25,7 +27,7 @@ Gợi ý chia vai:
 
 | Người | Vai | Commit | Test đã thêm hoặc sửa |
 | --- | --- | --- | --- |
-| | | | |
+| Nguyễn Thanh Liêm | ledger + evaluation | 64d4366 | test_client_retry_after_unacknowledged_checkpoint_crash_replays_safely |
 
 ## Cá nhân
 
