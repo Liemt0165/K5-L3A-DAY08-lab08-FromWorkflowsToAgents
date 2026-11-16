@@ -4,7 +4,7 @@
 
 - Họ tên: Nguyễn Thanh Liêm
 - MSSV: 2A202603358
-- Email: liemt0165@gmail.com
+- Email: 26ai.liemnt@vinuni.edu.vn
 - GitHub: Liemt0165
 
 ## 2. Phần việc phụ trách
