@@ -6,7 +6,7 @@ Tối đa 5 trang ngoài phụ lục. Số liệu lấy từ file trong `src/rep
 
 - Tên nhóm: Lab08 - From Workflows To Agents
 - Thành viên: Nguyễn Thanh Liêm, Ngô Gia Bảo, Nguyễn Bá Thành, Chử Văn Hiệp (chi tiết xem `TEAM.md`)
-- Commit chốt: `f08ac48` (đồng bộ với `report/team/decision_adr.md`)
+- Commit chốt: `3316bef` (đồng bộ với `report/team/decision_adr.md`)
 
 ## 2. Mục tiêu và cách tiếp cận
 

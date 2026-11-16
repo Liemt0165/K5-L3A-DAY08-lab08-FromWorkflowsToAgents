@@ -5,16 +5,16 @@
 - Tên nhóm: lab08
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-lab08-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/Liemt0165/K5-L3A-DAY08-lab08-FromWorkflowsToAgents, nhánh main, f08ac48
+- URL repo, nhánh nộp, commit chốt: https://github.com/Liemt0165/K5-L3A-DAY08-lab08-FromWorkflowsToAgents, nhánh main, 3316bef
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Nguyễn Thanh Liêm | 2A202603358 | 26ai.liemnt@vinuni.edu.vn | Liemt0165 | ledger + evaluation |
-|   2 | Nguyễn Bá Thành | 2A202603499 | 26ai.thanhnb3@vinuni.edu.vn | Nguyen-Ba-Thanh | single |
-|   3 | Ngô Gia Bảo | 2A202603482 | 26ai.baong4@vinuni.edu.vn | b-baocode | workflow + integration |
-|   4 | Chử Văn Hiệp | 2A202603382 | 26ai.hiepcv@vinuni.edu.vn | hiepchuvanpc | orchestrator + handoff |
+|   1 | Nguyễn Thanh Liêm | 2A202603358 | 26ai.liemnt@vinuni.edu.vn | Liemt0165 | Nhóm trưởng |
+|   2 | Nguyễn Bá Thành | 2A202603499 | 26ai.thanhnb3@vinuni.edu.vn | Nguyen-Ba-Thanh | Thành viên |
+|   3 | Ngô Gia Bảo | 2A202603482 | 26ai.baong4@vinuni.edu.vn | b-baocode | Thành viên |
+|   4 | Chử Văn Hiệp | 2A202603382 | 26ai.hiepcv@vinuni.edu.vn | hiepchuvanpc | Thành viên |
 
 Gợi ý chia vai:
 
