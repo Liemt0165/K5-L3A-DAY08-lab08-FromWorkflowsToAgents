@@ -5,7 +5,7 @@
 - Họ tên: Nguyễn Bá Thành
 - MSSV: 2A202603499
 - Email: 26ai.thanhnb3@vinuni.edu.vn
-- GitHub: Nguyen-Ba-Thanh
+- GitHub: [Nguyen-Ba-Thanh](https://github.com/Nguyen-Ba-Thanh)
 - Lớp: L3A
 - Vai trò: Single Agent (shape B).
 
