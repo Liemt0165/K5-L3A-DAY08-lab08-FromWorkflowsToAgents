@@ -37,7 +37,7 @@
 
 ## 4. Bằng chứng
 
-- **Commit kỹ thuật:** `[Điền mã hash commit ngắn của bạn, ví dụ: a1b2c3d]` — `feat(orchestrator): implement shape C and add handoff isolation test`.
+- **Commit hash:** `a204a46`.
 - **Test đã thêm:** `test_orchestrator_handoff_blocks_write_tools_and_unauthorized_facts` trong file `src/tests/test_handoff_secret.py`.
 - **Kết quả kiểm thử thực tế (chạy trong thư mục `src/`):**
   - Lệnh: `python -m pytest -q -m student -o addopts= -k orchestrator`
