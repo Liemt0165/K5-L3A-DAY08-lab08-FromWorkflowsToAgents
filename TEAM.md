@@ -5,7 +5,7 @@
 - Tên nhóm: lab08
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY08-lab08-FromWorkflowsToAgents` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: https://github.com/Liemt0165/K5-L3A-DAY08-lab08-FromWorkflowsToAgents, nhánh main
+- URL repo, nhánh nộp, commit chốt: https://github.com/Liemt0165/K5-L3A-DAY08-lab08-FromWorkflowsToAgents, nhánh main, cb46ade
 
 ## Thành viên
 
